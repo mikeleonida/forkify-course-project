@@ -1,3 +1,2 @@
-# forkify Project
+Forkify project code, developed by Jonas Schmedtmann 2021
 
-Recipe application with custom recipe uploads.
